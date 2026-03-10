@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.env
+.venv/
+venv/
+
+output/*.png
+output/*.jpg
+output/*.jpeg
+output/*.webp
+output/*.tmp

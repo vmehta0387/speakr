@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+python-multipart>=0.0.9
+uvicorn[standard]>=0.30.0
+python-dotenv>=1.0.0
+pillow>=10.0.0
+numpy>=1.26.0
+opencv-python>=4.9.0.80
+google-genai>=1.64.0
+faster-whisper>=1.2.1
+
+# Optional Together AI backend dependency:
+# together>=1.2.0
